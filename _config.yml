@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "오리 너구리."
+title                    : "Ori Nuguri"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "장하준"
-description              : "An amazing website."
+name                     : "Jang Hajun"
+description              : "Happy life."
 url                      : "https://redm27.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
